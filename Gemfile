@@ -43,3 +43,4 @@ group :development, :test do
   gem 'spring'
 end
 
+gem 'queue_classic_admin', '0.2.0'
